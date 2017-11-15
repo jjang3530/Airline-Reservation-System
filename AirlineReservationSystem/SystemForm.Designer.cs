@@ -481,7 +481,7 @@
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Name = "SystemForm";
-            this.Text = "Airline Reservatio by Jay Jang";
+            this.Text = "Airline Reservation by Jay Jang";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);
